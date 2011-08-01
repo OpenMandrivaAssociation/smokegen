@@ -54,6 +54,7 @@ Header files for %name
 %_kde_includedir/smokegen/type_compiler.h
 %_kde_includedir/smokegen/type.h
 %_kde_includedir/smoke.h
+%_kde_datadir/smokegen
 %_kde_libdir/smokegen/generator_smoke.so
 %_kde_libdir/smokegen/generator_dump.so
 %_kde_datadir/smoke/cmake/SmokeConfig.cmake
