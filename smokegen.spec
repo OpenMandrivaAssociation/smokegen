@@ -1,6 +1,6 @@
 Name:smokegen
 Summary: smokegen
-Version: 4.7.40
+Version: 4.7.41
 Release: 1
 Epoch: 1
 Group: Graphical desktop/KDE
