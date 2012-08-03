@@ -1,7 +1,7 @@
 Name:		smokegen
 Summary:	Scripting MetaObject Kompiler Engine tools
-Version:	4.8.97
-Release:	1
+Version: 4.8.97
+Release: 1
 Epoch:		1
 Group:		Graphical desktop/KDE
 License:	GPL
