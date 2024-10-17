@@ -5,7 +5,7 @@ Release:	3
 Epoch:		1
 Group:		Graphical desktop/KDE
 License:	GPL
-URL:		http://www.kde.org
+URL:		https://www.kde.org
 %define is_beta %(if test `echo %version |cut -d. -f3` -ge 70; then echo -n 1; else echo -n 0; fi)
 %if %{is_beta}
 %define ftpdir unstable
